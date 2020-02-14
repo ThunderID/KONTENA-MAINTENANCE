@@ -2,7 +2,7 @@
 name: NEW - FEATURE REQUEST
 about: Permintaan untuk menambahkan fitur baru
 title: ''
-labels: ''
+labels: new feature
 assignees: ''
 
 ---
